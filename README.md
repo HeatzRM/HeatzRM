@@ -11,5 +11,3 @@
 ☕ Obsessed with caffeinated liquors
  
 🌱 I’m currently learning Deep Learning stuff
-
-📫 How to reach me: contact@rotherford.tech
